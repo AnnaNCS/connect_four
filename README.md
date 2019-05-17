@@ -1,4 +1,4 @@
-My first python project: the game of connect four.
+One of my python projects: the game of connect four.
 
 To run the game:
 ```
