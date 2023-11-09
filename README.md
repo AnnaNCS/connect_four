@@ -1,4 +1,4 @@
-One of my python projects: the game of connect four.
+Fundamentals of Computer Science Python Projects: the game of Connect Four.
 
 To run the game:
 ```
